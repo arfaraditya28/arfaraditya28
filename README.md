@@ -16,7 +16,7 @@ Besides coding, I enjoy playing games in my spare time to relax and have fun.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arfakyu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arfakyu&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=arfakyu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfakyu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -25,18 +25,3 @@ Besides coding, I enjoy playing games in my spare time to relax and have fun.
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arfakyu.arfakyu&"  />
 </div>
-
-<!--
-**arfakyu/arfakyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
