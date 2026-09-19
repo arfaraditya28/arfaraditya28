@@ -29,7 +29,11 @@ Besides coding, I enjoy playing games in my spare time to relax and have fun.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaraditya28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<img src="https://raw.githubusercontent.com/arfaraditya28/arfaraditya28/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arfaraditya28/arfaraditya28/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arfaraditya28/arfaraditya28/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/arfaraditya28/arfaraditya28/output/snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arfaraditya28.arfaraditya28" />
